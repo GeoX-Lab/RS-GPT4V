@@ -1,4 +1,4 @@
-# RS- GPT4V: A Unified Multimodal Instruction-Following Dataset for Remote Sensing Image Understanding
+# RS-GPT4V: A Unified Multimodal Instruction-Following Dataset for Remote Sensing Image Understanding
 
 ---
 <p align="center">
