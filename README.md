@@ -3,9 +3,10 @@
 
 Linrui Xu, Ling Zhao, Wang Guo, Qiujun Li, Kewang Long, Kaiqi Zou, Yuhan Wang, [Haifeng Li☨](https://scholar.google.com/citations?user=51p_SJAAAAAJ)
 
-**We will be releasing the complete dataset, scripts, and model weights soon!**
+
 
 ## News
+We will be releasing the complete dataset, scripts, and model weights soon!
 
 
 + **\[2024/06/18\]:** Our paper now is available at [arxiv](https://arxiv.org/abs/2406.12479).
