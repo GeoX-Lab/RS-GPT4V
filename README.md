@@ -3,12 +3,14 @@
 
 Linrui Xu, Ling Zhao, Wang Guo, Qiujun Li, Kewang Long, Kaiqi Zou, Yuhan Wang, [Haifeng Li☨](https://scholar.google.com/citations?user=51p_SJAAAAAJ)
 
+**We will be releasing the complete dataset, scripts, and model weights soon!**
 
 ## News
 
+
 + **\[2024/06/18\]:** Our paper now is available at [arxiv](https://arxiv.org/abs/2406.12479).
 
-
+We will be releasing the complete dataset, scripts, and model weights soon!
   
 ---
 <p align="center">
@@ -63,7 +65,7 @@ This is the official repository for the paper:
 More details and supplement experimental results are coming. 
 
 ## Citation
-If our repo is helpful, please cite our work as follows:
+If you find RS-GPT4V useful for your research and applications, please cite using this BibTeX:
 
 ```
 @ARTICLE{10197260,
