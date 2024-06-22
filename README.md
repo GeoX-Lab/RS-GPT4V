@@ -1,11 +1,15 @@
 # RS-GPT4V: A Unified Multimodal Instruction-Following Dataset for Remote Sensing Image Understanding
 
 
-# News
-## News
-## Recent Highlights
+Linrui Xu, Ling Zhao, Wang Guo, Qiujun Li, Kewang Long, Kaiqi Zou, Yuhan Wang, [Haifeng Li☨]([https://xiangli.ac.cn](https://scholar.google.com/citations?user=51p_SJAAAAAJ))
 
-- **2024/06/19**:
+
+☨corresponding author
+
+
+## News
+
+- **2024/06/18**:
 
 
   
