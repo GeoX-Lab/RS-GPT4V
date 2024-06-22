@@ -15,7 +15,7 @@ We will be releasing the complete dataset, scripts, and model weights soon!
 
 ## RS-GPT4V Dataset
 
-RS-GPT4V integrates advanced tasks using both vision and language data. The dataset facilitates complex reasoning and detailed understanding of remote sensing images through multimodal instruction-following formats. Below are visual representations of the dataset's structure and capabilities:
+RS-GPT4V integrates advanced tasks using both vision and language data. The dataset facilitates complex reasoning and detailed understanding of remote sensing images through multimodal instruction-following formats. Below are visual representations of the dataset's principles and structure:
 
 ### Evolution of Remote Sensing Tasks and Data
 <p align="center">
