@@ -6,7 +6,7 @@ Linrui Xu, Ling Zhao, Wang Guo, Qiujun Li, Kewang Long, Kaiqi Zou, Yuhan Wang, [
 
 ## News
 
-- **2024/06/18**:
++ **\[2024/06/18\]:** Our paper now is available at [arxiv](https://arxiv.org/abs/2406.12479).
 
 
   
