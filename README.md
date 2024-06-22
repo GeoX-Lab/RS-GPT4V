@@ -26,14 +26,14 @@ RS-GPT4V integrates advanced tasks using both vision and language data. The data
 
 ### Design Principles and Characteristics of the RS-GPT4V Dataset
 <p align="center">
-  <img src="https://github.com/GeoX-Lab/RS-GPT4V/assets/36953734/3e14241a-c05e-48fd-b29f-963708b53b74" width="70%" alt="Design Principles and Characteristics">
+  <img src="https://github.com/GeoX-Lab/RS-GPT4V/assets/36953734/3e14241a-c05e-48fd-b29f-963708b53b74" width="75%" alt="Design Principles and Characteristics">
 </p>
 
 *Illustrates the dataset's design principles focusing on unity, diversity, correctness, complexity, richness, and robustness.*
 
 ### Principles-Driven Pipeline for RS-GPT4V Dataset Construction
 <p align="center">
-  <img src="https://github.com/GeoX-Lab/RS-GPT4V/assets/36953734/bc0dfed8-3c9a-45f3-91e7-b08b51ae8817" width="70%" alt="Dataset Construction Pipeline">
+  <img src="https://github.com/GeoX-Lab/RS-GPT4V/assets/36953734/bc0dfed8-3c9a-45f3-91e7-b08b51ae8817" width="75%" alt="Dataset Construction Pipeline">
 </p>
 
 *The construction process follows a structured approach integrating data collection, instruction-response generation, and instruction-annotation adaptation.*
