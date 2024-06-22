@@ -18,7 +18,9 @@ We will be releasing the complete dataset, scripts, and model weights soon!
 RS-GPT4V integrates advanced tasks using both vision and language data. The dataset facilitates complex reasoning and detailed understanding of remote sensing images through multimodal instruction-following formats. Below are visual representations of the dataset's structure and capabilities:
 
 ### Figure 1: Evolution of Remote Sensing Tasks and Data
-![Evolution of Remote Sensing Tasks and Data](https://github.com/GeoX-Lab/RS-GPT4V/assets/36953734/ec7f90f3-a25f-427a-9d98-206cd20aba3d)
+<p align="center">
+  <img src="https://github.com/GeoX-Lab/RS-GPT4V/assets/36953734/ec7f90f3-a25f-427a-9d98-206cd20aba3d" width="80%" alt="Evolution of Remote Sensing Tasks and Data">
+</p>
 
 *Evolution from simple remote sensing tasks to complex instruction-based tasks using multimodal data.*
 
@@ -31,6 +33,7 @@ RS-GPT4V integrates advanced tasks using both vision and language data. The data
 ![Dataset Construction Pipeline](https://github.com/GeoX-Lab/RS-GPT4V/assets/36953734/bc0dfed8-3c9a-45f3-91e7-b08b51ae8817)
 
 *The construction process follows a structured approach integrating data collection, instruction-response generation, and annotation adaptation.*
+
 
 
 ## Citation
