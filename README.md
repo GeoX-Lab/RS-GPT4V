@@ -52,7 +52,7 @@ This is the official repository for the paper:
 
 
 ## Experimental Details and Supplement Materials 
-More details and supplement experimental results can be found at [CMN_supplements](https://neurips2021-cmn-rebuttal.github.io). 
+More details and supplement experimental results are coming. 
 
 ## Citation
 If our repo is helpful, please cite our work as follows:
@@ -60,12 +60,12 @@ If our repo is helpful, please cite our work as follows:
 ```
 @ARTICLE{10197260,
   author={Xu, Linrui and Guo, Wang and Li, Qiujun and Long, Kewang and Zou, Kaiqi and Wang, Yuhan and Li, Haifeng},
-  journal={arXiv}, 
   title={RS-GPT4V: A Unified Multimodal Instruction-Following Dataset for Remote Sensing Image Understanding}, 
   year={2024},
   volume={},
   number={},
   pages={1-14},
-  doi={ }
+  journal={arXiv}, 
+  doi={https://arxiv.org/abs/2406.12479}
 }
 ```
