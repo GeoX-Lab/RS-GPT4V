@@ -19,18 +19,22 @@ RS-GPT4V integrates advanced tasks using both vision and language data. The data
 
 ### Figure 1: Evolution of Remote Sensing Tasks and Data
 <p align="center">
-  <img src="https://github.com/GeoX-Lab/RS-GPT4V/assets/36953734/ec7f90f3-a25f-427a-9d98-206cd20aba3d" width="80%" alt="Evolution of Remote Sensing Tasks and Data">
+  <img src="https://github.com/GeoX-Lab/RS-GPT4V/assets/36953734/ec7f90f3-a25f-427a-9d98-206cd20aba3d" width="50%" alt="Evolution of Remote Sensing Tasks and Data">
 </p>
 
 *Evolution from simple remote sensing tasks to complex instruction-based tasks using multimodal data.*
 
 ### Figure 2: Design Principles and Characteristics of the RS-GPT4V Dataset
-![Design Principles and Characteristics](https://github.com/GeoX-Lab/RS-GPT4V/assets/36953734/3e14241a-c05e-48fd-b29f-963708b53b74)
+<p align="center">
+  <img src="https://github.com/GeoX-Lab/RS-GPT4V/assets/36953734/3e14241a-c05e-48fd-b29f-963708b53b74" width="80%" alt="Design Principles and Characteristics">
+</p>
 
 *Illustrates the dataset's design principles focusing on unity, diversity, correctness, complexity, richness, and robustness.*
 
 ### Figure 3: Principles-Driven Pipeline for RS-GPT4V Dataset Construction
-![Dataset Construction Pipeline](https://github.com/GeoX-Lab/RS-GPT4V/assets/36953734/bc0dfed8-3c9a-45f3-91e7-b08b51ae8817)
+<p align="center">
+  <img src="https://github.com/GeoX-Lab/RS-GPT4V/assets/36953734/bc0dfed8-3c9a-45f3-91e7-b08b51ae8817" width="80%" alt="Dataset Construction Pipeline">
+</p>
 
 *The construction process follows a structured approach integrating data collection, instruction-response generation, and annotation adaptation.*
 
