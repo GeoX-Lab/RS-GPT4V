@@ -11,7 +11,7 @@ We will be releasing the complete dataset, scripts, and model weights soon!
 
 + **\[2024/06/18\]:**  🔥 Our paper now is available at [arxiv](https://arxiv.org/abs/2406.12479).
 + **\[2024/06/25\]:**  🔥 Our data will be released to huggingface soon.
-  
++ **\[2024/07/01\]:**  🔥 Our data has been released to [onedrive](https://onedrive.live.com/?authkey=%21ANsGyoc5unMUeoI&id=A6517D3A92CD1536%21110&cid=A6517D3A92CD1536).
 
 ## RS-GPT4V Dataset
 
